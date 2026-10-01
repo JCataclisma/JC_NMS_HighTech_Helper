@@ -1,4 +1,5 @@
-<img width="1920" height="1080" alt="NMS_HighTechHelper_ENG" src="https://github.com/user-attachments/assets/0eae039c-58d9-4aee-8762-0e2c19d6f7a1" />
+<img width="1449" height="913" alt="NMS_HighTechHelper_ENG" src="https://github.com/user-attachments/assets/c0e997af-b6d0-4202-bb41-f8c778d79309" />
+
 
 # JC_NMS_HighTech_Helper
 Simple calculator that compares the content of some specific player inventories to what is needed to produce some high-tech devices - for in-game profits!
