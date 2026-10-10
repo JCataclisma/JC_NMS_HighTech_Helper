@@ -1,0 +1,21 @@
+window.NMS_ITEMS = [
+  ["fusion_ignitor", "Fusion Ignitor"], ["stasis_device", "Stasis Device"],
+  ["quantum_processor", "Quantum Processor"], ["portable_reactor", "Portable Reactor"],
+  ["geodesite", "Geodesite"], ["iridesite", "Iridesite"], ["circuit_board", "Circuit Board"],
+  ["heat_capacitor", "Heat Capacitor"], ["poly_fiber", "Poly Fibre"], ["superconductor", "Superconductor"],
+  ["semiconductor", "Semiconductor"], ["thermic_condensate", "Thermic Condensate"], ["nitrogen_salt", "Nitrogen Salt"],
+  ["enriched_carbon", "Enriched Carbon"], ["organic_catalyst", "Organic Catalyst"], ["fusion_accelerant", "Fusion Accelerant"],
+  ["liquid_explosive", "Liquid Explosive"], ["acid", "Acid"], ["unstable_gel", "Unstable Gel"],
+  ["cryogenic_chamber", "Cryogenic Chamber"], ["living_glass", "Living Glass"], ["lubricant", "Lubricant"],
+  ["glass", "Glass"], ["cryo_pump", "Cryo-Pump"], ["hot_ice", "Hot Ice"],
+  ["aronium", "Aronium"], ["magno_gold", "Magno-Gold"], ["grantine", "Grantine"],
+  ["dirty_bronze", "Dirty Bronze"], ["herox", "Herox"], ["lemmium", "Lemmium"],
+  ["fungal_mould", "Fungal Mould"], ["cactus_flesh", "Cactus Flesh"], ["mordite", "Mordite"],
+  ["frost_crystal", "Frost Crystal"], ["solanium", "Solanium"], ["star_bulb", "Star Bulb"],
+  ["radon", "Radon"], ["nitrogen", "Nitrogen"], ["sulphurine", "Sulphurine"],
+  ["condensed_carbon", "Condensed Carbon"], ["gamma_root", "Gamma Root"], ["faecium", "Faecium"],
+  ["paraffinium", "Paraffinium"], ["ionized_cobalt", "Ionized Cobalt"], ["phosphorus", "Phosphorus"],
+  ["dioxite", "Dioxite"], ["pyrite", "Pyrite"], ["pure_ferrite", "Pure Ferrite"],
+  ["ammonia", "Ammonia"], ["uranium", "Uranium"], ["heridium", "Heridium"], ["emeril", "Emeril"],
+  ["gold", "Gold"], ["iron", "Iron"], ["carbon", "Carbon"]
+].map(([id, name]) => ({ id, name }));
